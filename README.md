@@ -42,15 +42,4 @@ app.js            telas e regras do protótipo
 assets/           logo do Estoquei
 ```
 
-## Colocar no ar com GitHub Pages
 
-1. No repositório, abra **Settings** e depois **Pages**.
-2. Em **Build and deployment**, escolha **Deploy from a branch**.
-3. Em **Branch**, escolha `main` e a pasta `/ (root)`, e clique em **Save**.
-4. Espere cerca de 1 minuto. O endereço do site aparece no topo da mesma página.
-
-## Próximos passos
-
-- Back-end real (contas, lojas, estoque e vendas salvos em banco de dados).
-- Pagamento do plano mensal.
-- Chat de suporte conectado a você e, depois, o chatbot.
